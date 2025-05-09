@@ -1,4 +1,4 @@
-# Zeiko Fullstack App
+# Prueba Tecnica LiteThinking
 
 ## Tecnologías principales
 
